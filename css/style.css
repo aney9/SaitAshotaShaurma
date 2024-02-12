@@ -1,0 +1,184 @@
+.fon{
+position: relative;
+width: 1950px;
+height: 930px;
+background: linear-gradient(159.5deg, #FFFFFF -30.34%, rgba(255, 255, 255, 0) 106.22%), #CECECE;
+}
+
+.xz{
+position: absolute;
+width: 120px;
+
+top: 0px;
+bottom: 0px;
+}
+
+
+
+.poloska1{
+position: absolute;
+width:30px;
+margin-left: 870px;
+top: 0%;
+bottom: 0%;
+
+background: #FF0000;
+}
+
+
+.poloska2{
+position: absolute;
+width:30px;
+margin-left: 750px;
+top: 0%;
+bottom: 0%;
+
+background: #000000;
+}
+
+
+.poloska3{
+position: absolute;
+width:30px;
+margin-left: 780px;
+top: 0%;
+bottom: 0%;
+
+background: #673809;
+}
+
+
+.poloska4{
+position: absolute;
+width:30px;
+margin-left: 810px;
+top: 0%;
+bottom: 0%;
+
+background: #4ED9EE;
+}
+
+
+.poloska5{
+position: absolute;
+width:30px;
+margin-left: 840px;
+top: 0%;
+bottom: 0%;
+
+background: #FFABC5;
+}
+
+
+.poloska6{
+position: absolute;
+width:30px;
+margin-left: 900px;
+top: 0%;
+bottom: 0%;
+
+background: #FF8F00;
+}
+
+
+.poloska7{
+position: absolute;
+width:30px;
+margin-left: 930px;
+top: 0%;
+bottom: 0%;
+
+background: #FDFF00;
+}
+
+
+.poloska8{
+position: absolute;
+width:30px;
+margin-left: 960px;
+top: 0%;
+bottom: 0%;
+
+background: #00C200;
+}
+
+
+.poloska9{
+position: absolute;
+width:30px;
+margin-left: 990px;
+top: 0%;
+bottom: 0%;
+
+background: #0000FF;
+}
+
+
+.poloska10{
+position: absolute;
+width:30px;
+margin-left: 1020px;
+top: 0%;
+bottom: 0%;
+
+background: #82008D;
+}
+
+/* Love who you are. Love who you want. */
+.text2{
+position: absolute;
+width: 290px;
+height: 58px;
+left: 80px;
+bottom: 46px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 29px;
+letter-spacing: -0.03em;
+
+color: #000000;
+}
+
+
+
+.kartinka{
+position: absolute;
+width: 245.08px;
+height: 354.85px;
+left: 700px;
+top: 225px;
+}
+.transparent-background {
+  background: transparent;
+}
+
+
+.text1{
+position: absolute;
+width: 157px;
+height: 77px;
+left: 80px;
+top: 44px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 64px;
+line-height: 77px;
+letter-spacing: -0.03em;
+
+color: #000000;
+}
+
+.border{
+border-top: 7px solid black;
+border-right: 2px dashed black;
+border-bottom: 3px dotted black;
+border-left: 4px double black;
+}
+.shadow{
+text-shadow: 2px 2px 2px black;
+}
