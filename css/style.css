@@ -5,15 +5,6 @@ height: 930px;
 background: linear-gradient(159.5deg, #FFFFFF -30.34%, rgba(255, 255, 255, 0) 106.22%), #CECECE;
 }
 
-.xz{
-position: absolute;
-width: 120px;
-
-top: 0px;
-bottom: 0px;
-}
-
-
 
 .poloska1{
 position: absolute;
@@ -124,30 +115,10 @@ bottom: 0%;
 background: #82008D;
 }
 
-/* Love who you are. Love who you want. */
-.text2{
-position: absolute;
-width: 290px;
-height: 58px;
-left: 80px;
-bottom: 46px;
-
-font-family: 'Inter';
-font-style: normal;
-font-weight: 700;
-font-size: 24px;
-line-height: 29px;
-letter-spacing: -0.03em;
-
-color: #000000;
-}
-
-
-
 .kartinka{
 position: absolute;
-width: 245.08px;
-height: 354.85px;
+width: 245px;
+height: 354px;
 left: 700px;
 top: 225px;
 }
@@ -162,16 +133,25 @@ width: 157px;
 height: 77px;
 left: 80px;
 top: 44px;
-
 font-family: 'Inter';
-font-style: normal;
 font-weight: 700;
 font-size: 64px;
-line-height: 77px;
-letter-spacing: -0.03em;
+color: #808080;
+}
 
+.text2{
+position: absolute;
+width: 290px;
+height: 58px;
+left: 80px;
+bottom: 46px;
+font-family: 'Inter';
+font-weight: 700;
+font-size: 24px;
 color: #000000;
 }
+
+
 
 .border{
 border-top: 7px solid black;
